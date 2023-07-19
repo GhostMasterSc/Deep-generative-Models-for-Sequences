@@ -1,1 +1,1 @@
-# Deep-generative-Models-for-Sequences
+# Deep-generative-Models-for-Sequences-Classification
